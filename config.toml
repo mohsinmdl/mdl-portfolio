@@ -1,5 +1,5 @@
 title = "Resume Mohsin"
-baseURL = "https://mohsinmdl.github.io/portfolio-deploy/"
+baseURL = "https://mohsinmdl.com"
 theme = "theme-portfolio"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -14,7 +14,7 @@ favicon = "/favicon.ico"
 firstName = "Muhammad"
 lastName = "Mohsin"
 phone = "(+92) 3336373467"
-profileImage = "img/mohsinmdl_avatar_2019.jpg"
+profileImage = "/img/mohsin-avatar-new.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = true
