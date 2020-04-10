@@ -1,5 +1,5 @@
 title = "Resume Mohsin"
-baseURL = "https://mohsinmdl.github.io/mdl-portfolio/"
+baseURL = "example.com"
 theme = "theme-portfolio"
 languageCode = "en-us"
 PygmentsCodeFences = true
