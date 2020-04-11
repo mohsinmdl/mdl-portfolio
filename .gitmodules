@@ -1,3 +1,6 @@
 [submodule "themes/theme-portfolio"]
 	path = themes/theme-portfolio
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "public"]
+	path = public
+	url = https://github.com/mohsinmdl/portfolio-deploy.git
