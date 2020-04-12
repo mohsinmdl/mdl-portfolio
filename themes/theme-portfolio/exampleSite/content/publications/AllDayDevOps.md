@@ -1,7 +1,7 @@
 ---
 title: "Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual"
 date: 2016-11-08
-pubtype: "Talk"
+pubtype: "Blogs"
 featured: true
 description: "This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible."
 tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
