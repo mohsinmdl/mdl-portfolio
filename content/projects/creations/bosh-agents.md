@@ -1,6 +1,7 @@
 {
   "title": "Data Analytics of Social Media Marketing",
   "date": "2020-04-13T01:32:33+05:00",
+  "image": "/img/analysis.png",
   "link": "https://github.com/mohsinmdl",
   "description": "We have made efficient and effective dashboards to visualize data from social media and gave businesses a competitive advantage.",
   "tags": ["Python", "Django", "Data Sciences", "Microsoft PowerBI", "Machine Learning"],
