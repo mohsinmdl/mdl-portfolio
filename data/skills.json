@@ -1,32 +1,40 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Python","Java","git","linux","php","jquery","javascript"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ "Bitbucket","MySQL","Wordpress"]
   },
   {
       "grouping":"Data Management",
       "skills":[
+        {"name":"MySQL","icon":"database"},
         {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        {"name":"Elasticsearch","icon":"database"},
+        "MongoDB"
       ]
   },
   {
     "grouping":"Containers & Cloud",
+      "skills":["Docker","Google Cloud"]
+  },
+  {
+    "grouping":"Deployment",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Heroku","icon":"heroku"},
+          {"name":"Google Cloud"},
+          {"name":"Netlify"}
+      ]
+  },
+  {
+    "grouping":"Other Skills",
+      "skills":[
+          {"name":"Web Scrapping"}
       ]
   }
 ]

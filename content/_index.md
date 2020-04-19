@@ -9,4 +9,5 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Mohsin is the Software Engineer, currently working at **Upgenics International**, where he focuses on the growth and operations of the fast-growing business and pursuing constant innovation.
+
